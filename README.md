@@ -47,3 +47,8 @@ npm run dev
 ---
 
 Made by [Giorgi Mumladze](https://github.com/GiorgiMumladze)
+
+<img width="1911" height="898" alt="605654409-f16cb1c7-809c-4674-8a6f-67d47d1842f8" src="https://github.com/user-attachments/assets/65173bfa-650e-4621-8d7d-5b3ea64ada37" />
+<img width="1909" height="902" alt="605654498-f67ee50b-a633-4cf2-8b04-40db21fe15fd" src="https://github.com/user-attachments/assets/4350b935-8678-4a85-b5dd-8c0aeb809bf5" />
+<img width="1910" height="904" alt="605654849-db53d774-1b6f-4430-84b8-de7d50e6b52b" src="https://github.com/user-attachments/assets/08c46815-9558-4a3d-82fb-6e8dd4f535d8" />
+<img width="1913" height="894" alt="605655201-2b752065-24cf-41ea-9253-0578dbbd653d" src="https://github.com/user-attachments/assets/9b0ccdca-e1e2-4feb-b919-78db1bf07a5d" />
